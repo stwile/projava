@@ -1,0 +1,28 @@
+# IDE
+.idea/
+.history/
+.run/
+.vscode/
+*.iml
+*.ipr
+*.iws
+
+# Tool-specific
+.serena/
+.qodana/
+qodana/
+
+# Build outputs
+target/
+out/
+*.class
+.mvn/wrapper/maven-wrapper.jar
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Misc
+*.log
+*.tmp
+*.bak
